@@ -1,0 +1,13 @@
+2023-11-18 19:35:12,600 tela DEBUG Tela iniciada
+2023-11-18 19:35:12,701 tela DEBUG O tema foi alterado
+2023-11-18 19:35:12,701 tela DEBUG iniciando apply_style
+2023-11-18 19:35:12,701 tela DEBUG Tema claro
+2023-11-18 19:35:12,701 tela DEBUG iniciando save_settings
+2023-11-18 19:35:12,701 tela DEBUG Tema salvo
+2023-11-18 19:35:12,703 tela DEBUG iniciando update_progress
+2023-11-18 19:35:12,703 tela DEBUG iniciando update_progress2
+2023-11-18 19:35:12,703 tela DEBUG Iniciando sistema
+2023-11-18 19:35:12,703 tela DEBUG iniciando update_list_widget
+2023-11-18 19:35:12,708 tela DEBUG iniciando update_list_widget
+2023-11-18 19:35:12,708 tela DEBUG iniciando update_list_widget2
+2023-11-18 19:35:12,708 tela DEBUG iniciando update_list_widget2
