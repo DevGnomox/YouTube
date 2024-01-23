@@ -38,5 +38,5 @@ https://github.com/DevGnomox
 [Gnomox YouTube Converter]()
 
 <div align="center"> 
-  <a href="https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX" target="_blank"><img src="<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />" target="_blank"></a>
+  <a href="https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX" target="_blank"><img src=" " target="_blank"></a>
 </div>
