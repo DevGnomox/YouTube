@@ -35,5 +35,5 @@ Gnomox Produções
 https://github.com/DevGnomox
 2023
 
-[![Gnomox YouTube Converter](https://img.shields.io/github/stars/seuusuario/seuprojeto.svg?style=social)](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)
+[Gnomox YouTube Converter](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)
 
