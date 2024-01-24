@@ -38,5 +38,5 @@ https://github.com/DevGnomox
 
 
 <div align="center"> 
-  <a href="https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-Photo.png" target="_blank" style="width: 50px; height: auto;"></a>
+  <a href="https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-Photo.png" target="_blank" style="width: 100px; height: auto;"></a>
 </div>
