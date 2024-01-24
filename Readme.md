@@ -35,6 +35,6 @@ Gnomox Produções
 https://github.com/DevGnomox
 2023
 
-[![Gnomox YouTube Converter](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)]
+[![]()]
 
-[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
+[![Gnomox YouTube Converter](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200)](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)
