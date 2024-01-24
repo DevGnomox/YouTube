@@ -1,4 +1,4 @@
-==
+
 Bem-vindo à Instalação do Aplicativo Gnomox
 ==
 
