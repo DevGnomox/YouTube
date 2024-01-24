@@ -1,6 +1,6 @@
-==================================================
+==
 Bem-vindo à Instalação do Aplicativo Gnomox
-==================================================
+==
 
 Obrigado por escolher o aplicativo Gnomox! Antes de prosseguir com a instalação, leia atentamente as informações a seguir para garantir uma instalação tranquila.
 
