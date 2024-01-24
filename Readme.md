@@ -36,4 +36,4 @@ https://github.com/DevGnomox
 2023
 
 
-[![Gnomox YouTube Converter](https://agevisa.pb.gov.br/servicos/audios/download.png/@@images/34580287-76cf-460a-8147-d98b33c531c9.png)](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)
+[![Gnomox YouTube Converter](https://www.pngall.com/wp-content/uploads/2/Download-Button-PNG-Photo.png)](https://drive.google.com/uc?id=1qs7xteAxneaCyOV86Oi1VraQuVeb6BjX)
